@@ -95,4 +95,9 @@ input:focus + .border, .expand:focus .border {
 color:white;
 background: transparent;
 border:none;
+transition: transform ease 300ms;
+}
+
+.material-icons:focus {
+  transform: translate(0, -10px);
 }
