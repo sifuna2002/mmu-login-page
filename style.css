@@ -91,3 +91,8 @@ input:focus + .border, .expand:focus .border {
     color: white;
     opacity: 1; 
 }
+.material-icons{
+color:white;
+background: transparent;
+border:none;
+}
